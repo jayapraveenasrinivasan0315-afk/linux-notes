@@ -4,9 +4,3 @@
 •	Repository configuration and management
 •	Package dependency resolution
 •	Building packages from source
-1.4 File Management
-•	Linux file system hierarchy and structure
-•	File permissions and ownership (chmod, chown)
-•	Special permissions (SUID, SGID, Sticky bit)
-•	File compression and archiving (tar, gzip, zip)
-•	Symbolic and hard links
