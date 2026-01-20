@@ -1,0 +1,6 @@
+BOOT PROCESS
+1.1 Boot Process
+•	Understanding BIOS/UEFI and system initialization
+•	GRUB bootloader configuration and troubleshooting
+•	Systemd initialization and service management
+•	Runlevels and boot targets
