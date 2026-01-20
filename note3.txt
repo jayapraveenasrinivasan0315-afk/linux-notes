@@ -1,6 +1,0 @@
-1.3 Package Management
-•	APT package management (Debian/Ubuntu)
-•	YUM/DNF package management (RHEL/CentOS)
-•	Repository configuration and management
-•	Package dependency resolution
-•	Building packages from source
