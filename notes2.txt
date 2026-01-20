@@ -4,3 +4,5 @@
 •	sudo configuration and privilege escalation
 •	Password policies and authentication mechanisms
 •	Understanding /etc/passwd, /etc/shadow, and /etc/group files
+
+make a notes
